@@ -1,0 +1,11 @@
+content = None
+f = open('data.txt','r',encoding = 'utf-8')
+content = f.read()
+f.close()
+f2 = open('combineddata.txt','a+',encoding = 'utf-8')
+f2.write(content)
+f1 = open('datanews.txt','r',encoding = 'utf-8')
+content1 = f1.read()
+f1.close()
+f2.write(content1)
+f2.close()

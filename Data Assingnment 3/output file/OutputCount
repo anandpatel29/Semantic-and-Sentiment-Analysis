@@ -1,0 +1,8 @@
+Row(word=u'graduate', Count=9)
+Row(word=u'university', Count=1577)
+Row(word=u'education', Count=1054)
+Row(word=u'canada', Count=526)
+Row(word=u'expensive', Count=1)
+Row(word=u'dalhousie', Count=1)
+Row(word=u'faculty', Count=38)
+Row(Word=u'computer science', Count=4)

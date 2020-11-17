@@ -1,0 +1,16 @@
+__To move file from local machine to VM__
+scp -i aws_assignment.pem data.txt ubuntu@ec2-18-191-9-83.us-east-2.compute.amazonaws.com: 
+
+__To move file from VM to local machine__
+scp -i aws_assignment.pem ubuntu@ec2-18-191-9-83.us-east-2.compute.amazonaws.com:finalout1.txt/part-00000 CS
+
+__To install MongoDB on VM__
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 4B7C549A058F8B6B
+echo "deb [ arch=amd64 ] https://repo.mongodb.org/apt/ubuntu bionic/mongodb-org/4.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb.list
+sudo apt update
+sudo apt install mongodb-org
+
+__To start MongoDB service__
+sudo systemctl enable mongod
+sudo systemctl start mongod 
+

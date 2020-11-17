@@ -1,0 +1,40 @@
+sudo ./spark-2.4.5-bin-hadoop2.7/bin/pyspark
+
+import re, string
+import pyspark
+from pyspark.sql.functions import col
+from pyspark import  SQLContext, SparkContext, SparkConf
+
+conf = SparkConf().setMaster("spark://ip-172-31-26-107.us-east-2.compute.internal:7077").setAppName("FreqCount")
+sc = SparkContext(conf = conf)
+
+text_file = sc.textFile('combineddata.txt')
+punc = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~'
+
+
+def uni_to_clean_str(x):
+	converted = x.encode('utf-8')
+	lowercased_str = converted.lower()
+	lowercased_str = lowercased_str.replace('--',' ')
+	clean_str = lowercased_str.translate(None, punc) #Change 1
+	return clean_str
+
+def text_Phrases(line):
+	single_words = uni_to_clean_str(line).split()
+	return [a + " " + b for a,b in zip(single_words, single_words[1:])]
+
+one_RDD = text_file.flatMap(lambda x: uni_to_clean_str(x).split())
+one_RDD = one_RDD.map(lambda x: (x,1))
+one_RDD = one_RDD.reduceByKey(lambda x,y: x + y)
+dfword = spark.createDataFrame(one_RDD).toDF("word","Count")
+abc = dfword.filter(col('Word').isin(['education','canada','university','dalhousie','expensive','faculty','graduate'])).show()
+
+v_RDD = text_file.flatMap(text_Phrases)
+v_RDD = v_RDD.map(lambda x :(x,1))
+v_RDD = v_RDD.reduceByKey(lambda x,y: x + y)
+tphrase = spark.createDataFrame(v_RDD).toDF("Word","Count")
+dfg = tphrase.filter(col('Word').isin(['bad school','bad schools','good school','good schools','poor school','poor schools','computer science'])).show()
+
+
+abc.rdd.repartition(1).saveAsTextFile("OutputCount.txt")
+dfg.rdd.repartition(1).saveAsTextFile("OutputCount.txt")

@@ -1,0 +1,71 @@
+title : Big Brother Canada year : 2013– imdb_id : tt2776888 type : series poster : https://m.media-amazon.com/images/M/MV5BZjY5MTUzYTUtNjA2MS00ZDUzLTgyMzUtNmQ2MTE2ZWJlMTNlXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg
+title : My Internship in Canada year : 2015 imdb_id : tt4116116 type : movie poster : https://m.media-amazon.com/images/M/MV5BNzcwZTIyMWMtYmJjNy00ZmViLThlNGMtMTVjOTQyOWU4ZDA1XkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SX300.jpg
+title : Storage Wars Canada year : 2013– imdb_id : tt3155428 type : series poster : https://m.media-amazon.com/images/M/MV5BNThlMTc2MWItZjM5OS00ZWM3LTg1NzItYTk4NDcxYjM3MTBhXkEyXkFqcGdeQXVyMjU1NTIzNTA@._V1_SX300.jpg
+title : The Amazing Race Canada year : 2013– imdb_id : tt3069720 type : series poster : https://m.media-amazon.com/images/M/MV5BMDYzZmE5OTEtNzkxNi00NjA2LTlmYjctYmE4MTdkNmY1ZmVkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg
+title : MasterChef Canada year : 2014– imdb_id : tt3219166 type : series poster : https://m.media-amazon.com/images/M/MV5BODA1MjEyMzY2MV5BMl5BanBnXkFtZTgwOTQ5NTA5NTE@._V1_SX300.jpg
+title : Canada Russia '72 year : 2006– imdb_id : tt0484098 type : series poster : https://m.media-amazon.com/images/M/MV5BMTI0OTUzNDkxM15BMl5BanBnXkFtZTcwMzMwNzkzMQ@@._V1_SX300.jpg
+title : Cab to Canada year : 1998 imdb_id : tt0161356 type : movie poster : https://m.media-amazon.com/images/M/MV5BYWZmZDVlY2QtMzU4OC00YTNjLWI5MzMtYTY4MDFjMjFjODA1XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SX300.jpg
+title : Canada Vignettes: Log Driver's Waltz year : 1979 imdb_id : tt0133932 type : movie poster : https://m.media-amazon.com/images/M/MV5BMTM1NDc4OTc3M15BMl5BanBnXkFtZTYwMDkwODY5._V1_SX300.jpg
+title : Canada: A People's History year : 2000– imdb_id : tt0264228 type : series poster : https://m.media-amazon.com/images/M/MV5BMTgzNTUzMjIwMl5BMl5BanBnXkFtZTcwMzQ1NzQyMQ@@._V1_SX300.jpg
+title : So You Think You Can Dance Canada year : 2008– imdb_id : tt1267314 type : series poster : https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_SX300.jpg
+title : Monsters University year : 2013 imdb_id : tt1453405 type : movie poster : https://m.media-amazon.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@._V1_SX300.jpg
+title : The Dover Boys at Pimento University or The Rivals of Roquefort Hall year : 1942 imdb_id : tt0034675 type : movie poster : https://m.media-amazon.com/images/M/MV5BN2ZmMDJhYmEtOWJlOS00NTY1LThlMjctMmI0NGFiOTk3ZGFjXkEyXkFqcGdeQXVyNzU3NTk0NjA@._V1_SX300.jpg
+title : Splatter University year : 1984 imdb_id : tt0125510 type : movie poster : https://m.media-amazon.com/images/M/MV5BNWMzZDJlZmMtZTQ0NC00Y2ZhLWI2NjEtMGMyZGFkZTkwMDBhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+title : Sa'eedi in the American University year : 1998 imdb_id : tt0389340 type : movie poster : https://m.media-amazon.com/images/M/MV5BOTU0YWMxMDctNGY2YS00M2RkLThlZDgtM2I0Zjk0YjUxMDMwXkEyXkFqcGdeQXVyMjg0MzMwNzg@._V1_SX300.jpg
+title : University of Laughs year : 2004 imdb_id : tt0436886 type : movie poster : https://m.media-amazon.com/images/M/MV5BZGIzMWRhMGUtNjdhYS00N2FlLTljYTUtNzg5ODNlMmY0ODdiXkEyXkFqcGdeQXVyNTEwMzkyODI@._V1_SX300.jpg
+title : University Challenge year : 1962– imdb_id : tt0177465 type : series poster : https://m.media-amazon.com/images/M/MV5BZDBhZTk0YjItNTlhZS00MzVlLWE5N2QtM2U5OTU5MWY0NTIzXkEyXkFqcGdeQXVyMTEzNjA2NzM@._V1_SX300.jpg
+title : Demolition University year : 1997 imdb_id : tt0179761 type : movie poster : https://m.media-amazon.com/images/M/MV5BMTY0ODcwOTI4Nl5BMl5BanBnXkFtZTgwNDc0NTAwNzE@._V1_SX300.jpg
+title : Nursery University year : 2008 imdb_id : tt1213832 type : movie poster : https://m.media-amazon.com/images/M/MV5BODIyOTQzNTUxOF5BMl5BanBnXkFtZTcwMTUyMzM0Mg@@._V1_SX300.jpg
+title : Derek Zoolander University year : 1997 imdb_id : tt0291852 type : movie poster : N/A
+title : Murder University year : 2012 imdb_id : tt2234299 type : movie poster : https://m.media-amazon.com/images/M/MV5BMzYwMDg5MTQwNl5BMl5BanBnXkFtZTgwNTIxODE1MDE@._V1_SX300.jpg
+title : CBC News: Moncton Shooting year : 2014– imdb_id : tt4362372 type : series poster : N/A
+title : Last Tango in Halifax year : 2012–2020 imdb_id : tt2216156 type : series poster : https://m.media-amazon.com/images/M/MV5BNjUxNmQ1MmMtZGFjNS00YzFlLWFkNDAtZWFlYmFhNWY1MGY5XkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg
+title : Shattered City: The Halifax Explosion year : 2003– imdb_id : tt0368542 type : series poster : https://m.media-amazon.com/images/M/MV5BMTI4NDgzNzA2M15BMl5BanBnXkFtZTcwOTExMDEzMQ@@._V1_SX300.jpg
+title : Tram Ride Into Halifax year : 1902 imdb_id : tt0471407 type : movie poster : N/A
+title : Halifax f.p. year : 1994–2001 imdb_id : tt2329424 type : series poster : https://m.media-amazon.com/images/M/MV5BMjMwODM3OTMxNF5BMl5BanBnXkFtZTgwMDMyMDE2MDE@._V1_SX300.jpg
+title : Halifax Catholic Procession year : 1905 imdb_id : tt0471190 type : movie poster : N/A
+title : Bradford Halifax London year : 2013 imdb_id : tt3091196 type : movie poster : https://m.media-amazon.com/images/M/MV5BNTM1MjExMDA0Nl5BMl5BanBnXkFtZTgwNTAwOTEwMDE@._V1_SX300.jpg
+title : John Halifax year : 1938 imdb_id : tt0030176 type : movie poster : N/A
+title : City of Ruins: The Halifax Explosion year : 2003 imdb_id : tt0387938 type : movie poster : N/A
+title : John Halifax, Gentleman year : 1974 imdb_id : tt0426727 type : movie poster : N/A
+title : Just One Big Mess: The Halifax Explosion, 1917 year : 1991 imdb_id : tt0223590 type : movie poster : N/A
+title : I Hate Toronto: A Love Story year : 2012 imdb_id : tt1816549 type : movie poster : https://m.media-amazon.com/images/M/MV5BMTcyMDAyOTgzNF5BMl5BanBnXkFtZTcwOTM2MzYyNw@@._V1_SX300.jpg
+title : Toronto Stories year : 2008 imdb_id : tt1113827 type : movie poster : https://m.media-amazon.com/images/M/MV5BMTA0MTI1ODM2NDdeQTJeQWpwZ15BbWU3MDMyOTMwMjI@._V1_SX300.jpg
+title : Avril Lavigne: The Best Damn Tour - Live in Toronto year : 2008 imdb_id : tt1289777 type : movie poster : https://m.media-amazon.com/images/M/MV5BMjIxNzg3OTg1OF5BMl5BanBnXkFtZTcwMDk4NzQ5MQ@@._V1_SX300.jpg
+title : NXT TakeOver: Toronto year : 2016 imdb_id : tt6260358 type : movie poster : https://m.media-amazon.com/images/M/MV5BZjc0ZjQ2N2MtNjU3ZC00ZTA2LWEzZjUtNmI4NGM2YzExMDUwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzQwNDk2ODM@._V1_SX300.jpg
+title : Plague City: SARS in Toronto year : 2005 imdb_id : tt0439763 type : movie poster : https://m.media-amazon.com/images/M/MV5BMTQ1NTE1OTMxNV5BMl5BanBnXkFtZTgwNzI0MDA2MDE@._V1_SX300.jpg
+title : John Lennon and the Plastic Ono Band: Sweet Toronto year : 1971 imdb_id : tt0498719 type : movie poster : https://ia.media-imdb.com/images/M/MV5BNzNkMmViYzYtNjgxMC00MTViLTg2ZjctMTEwNmU2N2Y4ZWQwXkEyXkFqcGdeQXVyNTk1NTMyNzM@._V1_SX300.jpg
+title : Let's All Hate Toronto year : 2007 imdb_id : tt1135977 type : movie poster : https://m.media-amazon.com/images/M/MV5BMjE1NzQyNjU1Ml5BMl5BanBnXkFtZTgwMzIyMjA2MDE@._V1_SX300.jpg
+title : The Man from Toronto year : 1933 imdb_id : tt0024298 type : movie poster : https://m.media-amazon.com/images/M/MV5BNWU5NWQyODQtNzNmNi00ZWZmLTk2NGQtMTRjZmM3OWYyNGE1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTE1NDUzNg@@._V1_SX300.jpg
+title : The Toronto Show year : 2003–2004 imdb_id : tt0393003 type : series poster : N/A
+title : Film-Fest DVD: Issue 3 - Toronto year : 2000 imdb_id : tt0500201 type : movie poster : N/A
+title : Love It or List It Vancouver year : 2013– imdb_id : tt2665420 type : series poster : https://m.media-amazon.com/images/M/MV5BZTlkZjA1ZWUtM2IxZS00MzYwLWI0OWItYmViYjNmN2IzZjE3XkEyXkFqcGdeQXVyNjE3NTAyNjc@._V1_SX300.jpg
+title : The Real Housewives of Vancouver year : 2012–2013 imdb_id : tt2330453 type : series poster : https://m.media-amazon.com/images/M/MV5BMzJhM2UyZWUtZGQwYS00Y2VmLWE0NjEtMDQwOWUwOGNjNTY2XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg
+title : Vancouver 2010: XXI Olympic Winter Games year : 2010– imdb_id : tt1517514 type : series poster : https://m.media-amazon.com/images/M/MV5BMTQyODA5NjY5OF5BMl5BanBnXkFtZTcwODgyMDkxMw@@._V1_SX300.jpg
+title : The Vancouver Asahi year : 2014 imdb_id : tt3550344 type : movie poster : https://m.media-amazon.com/images/M/MV5BYzI1ZDY4MjgtYmQwZi00NTkyLWE5YjYtZGQ4ZjllNTI4NTUxXkEyXkFqcGdeQXVyMzA1NTc1NDk@._V1_SX300.jpg
+title : Aurélia Steiner (Vancouver) year : 1980 imdb_id : tt0205756 type : movie poster : N/A
+title : Victoria and Vancouver: Gateways to Canada year : 1936 imdb_id : tt1210118 type : movie poster : N/A
+title : Vancouver year : 2005 imdb_id : tt0475423 type : movie poster : N/A
+title : Truth in Motion: The US Ski Team's Road to Vancouver year : 2010 imdb_id : tt1645937 type : movie poster : N/A
+title : The Vancouver B Movie Factory year : 2013– imdb_id : tt3172614 type : series poster : N/A
+title : Vancouver 2010 year : 2010 imdb_id : tt1845313 type : game poster : N/A
+title : Petropolis: Aerial Perspectives on the Alberta Tar Sands year : 2009 imdb_id : tt1504458 type : movie poster : https://m.media-amazon.com/images/M/MV5BMTYxNDk3MTM2OF5BMl5BanBnXkFtZTgwNjU5MzA2MDE@._V1_SX300.jpg
+title : Alberta Legacy year : 2012 imdb_id : tt2229029 type : movie poster : N/A
+title : Alberta year : 2016 imdb_id : tt5088378 type : movie poster : https://m.media-amazon.com/images/M/MV5BMTFjNGFlNGQtYjM1MC00YzQ4LTk4NDEtMzc3NDkxZDkwNjUxXkEyXkFqcGdeQXVyMjkxNjAzNTU@._V1_SX300.jpg
+title : Alberta year : 2016 imdb_id : tt5088378 type : movie poster : https://m.media-amazon.com/images/M/MV5BMTFjNGFlNGQtYjM1MC00YzQ4LTk4NDEtMzc3NDkxZDkwNjUxXkEyXkFqcGdeQXVyMjkxNjAzNTU@._V1_SX300.jpg
+title : Alberta Legacy 2 year : 2013 imdb_id : tt2822366 type : movie poster : N/A
+title : Sekmadienis. Evangelija pagal liftininka Alberta year : 2003 imdb_id : tt0415262 type : movie poster : N/A
+title : Alberta Hunter: My Castle's Rockin' year : 1988 imdb_id : tt0364775 type : movie poster : N/A
+title : Alberta Bound year : 1984 imdb_id : tt0225047 type : movie poster : N/A
+title : Two Dreams of a Nation: The Fortin Family of Quebec and Alberta year : 1980 imdb_id : tt0227701 type : movie poster : N/A
+title : Alberta year : 1997 imdb_id : tt0213439 type : movie poster : N/A
+title : Niagara year : 1953 imdb_id : tt0046126 type : movie poster : https://m.media-amazon.com/images/M/MV5BMDBhNWE4Y2UtMTA5Mi00YzYyLTliMWMtMjc3OGU0ZWFiMGVhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg
+title : Niagara, Niagara year : 1997 imdb_id : tt0119780 type : movie poster : https://m.media-amazon.com/images/M/MV5BMTY2MWRlMzYtYzIzMy00NjBkLWEwYmQtYjFlN2NmNGIxNzE2XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg
+title : Niagara, Niagara year : 1997 imdb_id : tt0180007 type : movie poster : https://m.media-amazon.com/images/M/MV5BMTUyMzk3NjQ0OV5BMl5BanBnXkFtZTcwNTk2NTAyMQ@@._V1_SX300.jpg
+title : Niagara Motel year : 2005 imdb_id : tt0425295 type : movie poster : https://m.media-amazon.com/images/M/MV5BMjA2NTU4NDI0OV5BMl5BanBnXkFtZTcwNjA1NzY5MQ@@._V1_SX300.jpg
+title : Niagara Falls year : 1897 imdb_id : tt0000162 type : movie poster : https://m.media-amazon.com/images/M/MV5BNjg2YmE4MzUtYWQ1Ny00ZWM3LWFjZTMtMTVhODMxN2YzZjFhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg
+title : Chasing Niagara year : 2015 imdb_id : tt5192278 type : movie poster : https://m.media-amazon.com/images/M/MV5BY2E0NmQ0YzMtMzM0ZS00YjhjLTk5YjAtOGVkNzM5MzViNzNiXkEyXkFqcGdeQXVyODA5NTY3MA@@._V1_SX300.jpg
+title : Niagara: Miracles, Myths and Magic year : 1986 imdb_id : tt0091626 type : movie poster : https://m.media-amazon.com/images/M/MV5BMTQwNzg3NjUzNV5BMl5BanBnXkFtZTcwMzg2MjczMQ@@._V1_SX300.jpg
+title : Niagara Falls year : 1941 imdb_id : tt0033949 type : movie poster : https://m.media-amazon.com/images/M/MV5BMjI1NDExNTU0NV5BMl5BanBnXkFtZTgwNjUwMzYwNzE@._V1_SX300.jpg
+title : Captain Nissen Going Through Whirlpool Rapids, Niagara Falls year : 1901 imdb_id : tt0360454 type : movie poster : N/A
+title : Niagara Fools year : 1956 imdb_id : tt0151746 type : movie poster : https://m.media-amazon.com/images/M/MV5BNDIzOWNiMDYtNGNhMS00MGM4LWFkNzMtZWI0Zjg3YTZjMzEzXkEyXkFqcGdeQXVyNjk2MDY4NTI@._V1_SX300.jpg
